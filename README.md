@@ -7,7 +7,7 @@ PicoBox - Simple programmable unit for any practical and experimental purposes p
 - PCB and project box designed for DIN rail
 - Bluetooth
 - IMS Radio + Ext. SMA
-- Ehternet
+- Ethernet
 - RTC
 - SD Card
 - Two UART and one I2C bus headers
