@@ -1,0 +1,452 @@
+{
+  "uuid": "1ee0d1da35a06b5e0bc5f10bf5869831",
+  "path": "Offline/Picobox",
+  "name": "Picobox",
+  "content": "",
+  "created_at": "2023-03-06 16:15:48",
+  "updated_at": "2023-03-06 16:16:31",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "344141546fa3f4ea078a91e828471bf8",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e545f26e87c74952857381bd0bff848e": 3,
+        "2f5c8276f8d64010877a8d3bb97697b8": 6,
+        "eaa76950fd7343a1953943ee7b9978d3": 2,
+        "bb009484ef804a24ac5d18c54b249586": 3,
+        "4e5e5775fd634dd48141eafc77c26e7a": 1,
+        "e33cc1be9d5e4d929dda60b4eb023d72": 3,
+        "17d989225e7d42839ef422d52be2b802": 2,
+        "18479f1c4d4749c5a4c4387846c5d657": 2,
+        "a7291ceaee5442a999df26c55c7e675d": 1,
+        "d6f3a4b0bba0432aa3507977687f7de3": 1,
+        "7809ed3ba7c24a14936ce2a66b37ccdb": 2,
+        "51a35d64324e4758a67746a26fdb5edd": 7,
+        "ce92acfdc8024ab38f76e1c48c22973d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Buzzer",
+          1,
+          "BEEPER",
+          "B1",
+          {
+            "BOM_Supplier Part": "C146690",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "58c1c9d1da1f4f0e99402b2ba345418c",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "47uF",
+          1,
+          "ELECTCAPA",
+          "C1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "683becc34b3048fab3467df1d1c8e21d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "470uF",
+          1,
+          "ELECTCAPA",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "683becc34b3048fab3467df1d1c8e21d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "220uF",
+          1,
+          "ELECTCAPA",
+          "C3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "683becc34b3048fab3467df1d1c8e21d",
+            "uuid": "e545f26e87c74952857381bd0bff848e"
+          }
+        ],
+        [
+          "1N4007",
+          2,
+          "DIODE",
+          "D1,D2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "67755c3091a74bf48d3423fa025464f2",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ],
+        [
+          "JP7",
+          1,
+          "SCREWTERMINAL-3.5MM-4",
+          "EXP-A",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "0249d0621a8e46b093a4731b70bdd256",
+            "uuid": "51a35d64324e4758a67746a26fdb5edd"
+          }
+        ],
+        [
+          "JP6",
+          1,
+          "SCREWTERMINAL-3.5MM-4",
+          "EXP-B",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "0249d0621a8e46b093a4731b70bdd256",
+            "uuid": "51a35d64324e4758a67746a26fdb5edd"
+          }
+        ],
+        [
+          "H1",
+          1,
+          "HDR-F-2.54_1X6",
+          "FRONT",
+          {
+            "BOM_Supplier Part": "C40877",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e86d43893d914130bd34765c00ed5f63",
+            "uuid": "2f5c8276f8d64010877a8d3bb97697b8"
+          }
+        ],
+        [
+          "Key1",
+          1,
+          "KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "FUNC",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C136684",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "K2-1102DP-E4SW-04",
+            "puuid": "557c105168d444a992e25584f55bcbb2",
+            "uuid": "18479f1c4d4749c5a4c4387846c5d657"
+          }
+        ],
+        [
+          "JP5",
+          1,
+          "SCREWTERMINAL-3.5MM-4",
+          "I2C",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "0249d0621a8e46b093a4731b70bdd256",
+            "uuid": "51a35d64324e4758a67746a26fdb5edd"
+          }
+        ],
+        [
+          "JP3",
+          1,
+          "SCREWTERMINAL-3.5MM-4",
+          "I/O",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "0249d0621a8e46b093a4731b70bdd256",
+            "uuid": "51a35d64324e4758a67746a26fdb5edd"
+          }
+        ],
+        [
+          "JP4",
+          1,
+          "SCREWTERMINAL-3.5MM-4",
+          "I/O(A)",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "0249d0621a8e46b093a4731b70bdd256",
+            "uuid": "51a35d64324e4758a67746a26fdb5edd"
+          }
+        ],
+        [
+          "H2",
+          1,
+          "HDR-F-2.54_1X6",
+          "INT",
+          {
+            "BOM_Supplier Part": "C40877",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e86d43893d914130bd34765c00ed5f63",
+            "uuid": "2f5c8276f8d64010877a8d3bb97697b8"
+          }
+        ],
+        [
+          "M2",
+          1,
+          "HDR-F-2.54_1X4",
+          "MBM",
+          {
+            "BOM_Supplier Part": "C225501",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "21473b495b6340c992965357d5701779",
+            "uuid": "eaa76950fd7343a1953943ee7b9978d3"
+          }
+        ],
+        [
+          "M5",
+          1,
+          "HDR-F-2.54_1X4",
+          "MBT",
+          {
+            "BOM_Supplier Part": "C225501",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "21473b495b6340c992965357d5701779",
+            "uuid": "eaa76950fd7343a1953943ee7b9978d3"
+          }
+        ],
+        [
+          "MCU",
+          2,
+          "HDR-F-2.54_1X20",
+          "MCU-L,MCU-R",
+          {
+            "BOM_Supplier Part": "C50984",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "d2341d8234464924809729b13422be4a",
+            "uuid": "17d989225e7d42839ef422d52be2b802"
+          }
+        ],
+        [
+          "M6",
+          2,
+          "HDR-F-2.54_1X6",
+          "MET-L,MET-R",
+          {
+            "BOM_Supplier Part": "C40877",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e86d43893d914130bd34765c00ed5f63",
+            "uuid": "2f5c8276f8d64010877a8d3bb97697b8"
+          }
+        ],
+        [
+          "M7",
+          2,
+          "HDR-F-2.54_1X8",
+          "MEX-L,MEX-R",
+          {
+            "BOM_Supplier Part": "C225505",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "76a028e0363649388f2a2e340a157455",
+            "uuid": "7809ed3ba7c24a14936ce2a66b37ccdb"
+          }
+        ],
+        [
+          "M4",
+          1,
+          "HDR-F-2.54_2X4",
+          "MRA",
+          {
+            "BOM_Supplier Part": "C239344",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "31ed58ef9e15436886218390490a87d8",
+            "uuid": "d6f3a4b0bba0432aa3507977687f7de3"
+          }
+        ],
+        [
+          "M1",
+          1,
+          "HDR-F-2.54_1X6",
+          "MRT",
+          {
+            "BOM_Supplier Part": "C40877",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e86d43893d914130bd34765c00ed5f63",
+            "uuid": "2f5c8276f8d64010877a8d3bb97697b8"
+          }
+        ],
+        [
+          "M3",
+          1,
+          "HDR-F-2.54_1X6",
+          "MSD",
+          {
+            "BOM_Supplier Part": "C40877",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e86d43893d914130bd34765c00ed5f63",
+            "uuid": "2f5c8276f8d64010877a8d3bb97697b8"
+          }
+        ],
+        [
+          "JP1",
+          1,
+          "SCREWTERMINAL-3.5MM-4",
+          "POWER",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "0249d0621a8e46b093a4731b70bdd256",
+            "uuid": "51a35d64324e4758a67746a26fdb5edd"
+          }
+        ],
+        [
+          "BC547",
+          1,
+          "TO-92-2N2222",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "KEC",
+            "BOM_Manufacturer Part": "2n3904S-RTK/PS",
+            "BOM_Supplier Part": "C18536",
+            "BOM_Paste Type": "SOT-23",
+            "puuid": "3af7d58f3e554bfd81798491b71c2a1a",
+            "uuid": "4e5e5775fd634dd48141eafc77c26e7a"
+          }
+        ],
+        [
+          "1K",
+          3,
+          "1/8W RESISTOR",
+          "R1,R2,R3",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "53491c0e52fe46d0920ce8837fa31a20",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "Key2",
+          1,
+          "KEY-TH_4P-L6.0-W6.0-P4.50-LS6.5",
+          "START",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C136684",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "K2-1102DP-E4SW-04",
+            "puuid": "557c105168d444a992e25584f55bcbb2",
+            "uuid": "18479f1c4d4749c5a4c4387846c5d657"
+          }
+        ],
+        [
+          "LED-TH-5mm_B",
+          1,
+          "LED-TH_BD5.0_GREEN",
+          "STATUS",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "333-2SYGD/S530-E2",
+            "BOM_Supplier Part": "C88163",
+            "BOM_Supplier": "LCSC",
+            "puuid": "4da2878e35f448b0bac90f757c43e1e6",
+            "uuid": "ce92acfdc8024ab38f76e1c48c22973d"
+          }
+        ],
+        [
+          "JP2",
+          1,
+          "SCREWTERMINAL-3.5MM-4",
+          "UART",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "0249d0621a8e46b093a4731b70bdd256",
+            "uuid": "51a35d64324e4758a67746a26fdb5edd"
+          }
+        ],
+        [
+          "1N4001",
+          1,
+          "DIODE",
+          "ZD1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C328592",
+            "BOM_Manufacturer": "BLUE ROCKET",
+            "BOM_Manufacturer Part": "1N4007W",
+            "puuid": "67755c3091a74bf48d3423fa025464f2",
+            "uuid": "e33cc1be9d5e4d929dda60b4eb023d72"
+          }
+        ]
+      ],
+      "updateTime": 1678115748,
+      "createTime": 1678115748,
+      "histories": [],
+      "created_at": "2023-03-06 16:15:48",
+      "updated_at": "2023-03-06 16:15:48"
+    },
+    {
+      "uuid": "333de3f93c0db21dfbfcbacdc7d1a67f",
+      "puuid": "f6f6887f0bd5cac7a89887d42efb7256",
+      "title": "PCB_Picobox",
+      "filename": "PCB_Picobox.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "58c1c9d1da1f4f0e99402b2ba345418c": 1,
+        "683becc34b3048fab3467df1d1c8e21d": 3,
+        "67755c3091a74bf48d3423fa025464f2": 3,
+        "0249d0621a8e46b093a4731b70bdd256": 7,
+        "e86d43893d914130bd34765c00ed5f63": 6,
+        "557c105168d444a992e25584f55bcbb2": 2,
+        "4da2878e35f448b0bac90f757c43e1e6": 1,
+        "21473b495b6340c992965357d5701779": 2,
+        "d2341d8234464924809729b13422be4a": 2,
+        "76a028e0363649388f2a2e340a157455": 2,
+        "31ed58ef9e15436886218390490a87d8": 1,
+        "3af7d58f3e554bfd81798491b71c2a1a": 1,
+        "53491c0e52fe46d0920ce8837fa31a20": 3
+      },
+      "BOM": [],
+      "updateTime": 1678115791,
+      "createTime": 1678115791,
+      "histories": [],
+      "created_at": "2023-03-06 16:16:31",
+      "updated_at": "2023-03-06 16:16:31"
+    }
+  ],
+  "sort": [],
+  "title": "Picobox",
+  "foldername": "Picobox",
+  "schfilename": "Picobox.json",
+  "schfilemtime": 1678115748993
+}
