@@ -27,6 +27,8 @@ with Ethernet, Radio, RTC and Bluetooth module
 
 ![Board photo](doc/picobox.jpg)
 
+![Pinouts](doc/pinouts.png)
+
 
 ## Modules
 - Raspberry Pi Pico RP2040 (MCU)
