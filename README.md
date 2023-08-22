@@ -2,7 +2,7 @@
 
 ## About
 PicoBox - Cheap and simple programmable unit for any practical and experimental purposes powered by Raspberry Pi Pico
-with Ethernet, IMS Radio, RTC and Bluetooth module
+with Ethernet, Radio, RTC and Bluetooth module
 
 ## Overview
 - Designed for industrial DIN rail
@@ -13,10 +13,15 @@ with Ethernet, IMS Radio, RTC and Bluetooth module
 - One configurable I2C/UART bus header
 - Functional button
 - Noise beeper
+- Ethernet with RJ45
+- RTC with backup 3V battery
+- Radio 2.4GHz IMS Band with antenna SMA
+- Bluetooth
 
 ## Project includes
 - Schematics & PCB project in EasyEDA
-- Software boilerplate with drivers and FreeRTOS
+- Software boilerplate with drivers 
+- Operating system based on FreeRTOS (comming soon)
 - 3D Printed cover project (comming soon)
 
 
