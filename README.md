@@ -1,7 +1,7 @@
 # PicoBox
 
 ## About
-PicoBox - Cheap and simple programmable unit for any practical and experimental purposes powered by Raspberry Pi Pico
+PicoBox - Cheap and simple mini-computer for any practical and experimental purposes powered by Raspberry Pi Pico
 with Ethernet, Radio, RTC and Bluetooth module
 
 ## Overview
